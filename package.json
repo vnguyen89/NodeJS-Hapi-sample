@@ -1,0 +1,40 @@
+{
+  "name": "marketapi",
+  "version": "0.1.0",
+  "description": "Api for market system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnguyen89/NodeJS-Hapi-sample.git"
+  },
+  "keywords": [
+    "hapi"
+  ],
+  "author": "vnguyen1989",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vnguyen89/NodeJS-Hapi-sample/issues"
+  },
+  "homepage": "https://github.com/vnguyen89/NodeJS-Hapi-sample#readme",
+  "dependencies": {
+    "hapi": "^11.1.0"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-mocha": "^2.1.3",
+    "gulp-nodemon": "^2.0.4",
+    "gulp-replace": "^0.5.4",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.9.2",
+    "inject-then": "^2.0.3",
+    "merge2": "^0.3.6",
+    "mocha": "^2.3.3",
+    "sinon": "^1.17.2"
+  }
+}
